@@ -1,6 +1,7 @@
 # sanyam_weather_app
 
-A new Flutter project.
+A Simple Weather App with location detection and theme animations.
+APK Link: - https://drive.google.com/file/d/16qMkDjY2z5JUuSkMHWsmDOorbUeNam5U/view?usp=sharing
 
 ## Getting Started
 
