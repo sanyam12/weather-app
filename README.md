@@ -1,7 +1,8 @@
 # sanyam_weather_app
 
 A Simple Weather App with location detection and theme animations. <br>
-APK Link: - https://drive.google.com/file/d/16qMkDjY2z5JUuSkMHWsmDOorbUeNam5U/view?usp=sharing
+APK Link: - https://drive.google.com/file/d/16qMkDjY2z5JUuSkMHWsmDOorbUeNam5U/view?usp=sharing <br>
+App Demo Video: - https://drive.google.com/file/d/1Gub0LbLkfTmMeO0q0oAyBkC6xnMLs0oN/view?usp=sharing
 
 ## Getting Started
 
